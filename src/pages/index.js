@@ -145,7 +145,7 @@ const RenderBody = ({ home, projects, meta }) => {
           every sale. Bulaava gave birth to a vision of providing a platform to
           deserving artists. That vision today has evolved into spiring. <br />
           <br />
-          Currently, we are focusing on building a team strong developers to
+          Currently, we are focusing on building a team of strong developers to
           help us realize our vision. The products currently in our pipelne are
           being built using javascript and its frameworks. Although our plan is
           to build products using a diverse set of technologies as required.
