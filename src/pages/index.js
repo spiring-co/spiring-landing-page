@@ -126,30 +126,33 @@ const RenderBody = ({ home, projects, meta }) => {
       <Hero>
         <h1>
           We have always felt that <span>artists</span> need more{" "}
-          <span>freedom</span> when it comes to creating <span>artwork</span>.
-          The art should be created irrespective of <span>clients</span>, money,
-          time limit.
+          <span>freedom</span> when it comes to creating <span>artwork. </span>
+          Artists should <span>create</span> irrespective of clients, money, &
+          time limits.
         </h1>
         <p style={{ display: fullView ? "block" : "none" }}>
-          It should be created with love and passion towards your work. We need
-          to see more of art which is not bind with any of these limits. thats
-          why, we are creating an independent platforms in various channels that
-          reaches directly to the end customer. So that the artist work can be
-          monetised and they can earn their living from it. Here, we need{" "}
-          <span>developers</span> to create this perfect environment and tools
-          that enable artist to perform better.
+          The world needs more art which is not bound to any of these limits.
+          Let art be a result love and passion towards your work. We are
+          building products that help us solve these problems. They will help
+          artists create, showcase and monetize their work better.
+          <br /> <br /> We started our journey with an android app{" "}
+          <a href="https://play.google.com/store/apps/details?id=wedding.invitation.videos">
+            Bulaava
+          </a>{" "}
+          . It's changing the way people invite guests to their special events
+          of life. Motion graphics artists all around India can showcase
+          invitation videos on our platform. They also earn a direct royalty for
+          every sale. Bulaava gave birth to a vision of providing a platform to
+          deserving artists. That vision today has evolved into spiring. <br />
           <br />
-          <br />
-          Bulaava is one of our successful product in this voyage. we can
-          honestly say that Bulaava has given birth to this idea, where we
-          actually found the hardship in the artist work.
-          <br />
-          <br />
-          Now, we are starting the platform where independent artists can sign
-          up and submit their artwork and earn royalty from it. Lot of other
-          product is in the line up as Renderfarms video automation API's Logo
-          redesign app Art-Hackathon The Designer Palette (Artist Blogs) We need
-          awesome people to help us realise this dream.
+          Currently, we are focusing on building a team strong developers to
+          help us realize our vision. The products currently in our pipelne are
+          being built using javascript and its frameworks. Although our plan is
+          to build products using a diverse set of technologies as required.
+          People that relate with our vision and are familiar with javascript
+          can connect with us at{" "}
+          <a href="mailto: careers@spiring.co">careers@spiring.co</a> or visit
+          the <a href="/jobs">jobs</a> page.
         </p>
         <p
           style={{ fontWeight: "bold", color: colors.purple500 }}
