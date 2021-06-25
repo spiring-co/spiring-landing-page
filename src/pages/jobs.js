@@ -1,13 +1,8 @@
-import React, { useState } from "react"
-import PropTypes from "prop-types"
-import Helmet from "react-helmet"
-import { RichText } from "prismic-reactjs"
-import { graphql, Link } from "gatsby"
-import styled from "@emotion/styled"
-import colors from "styles/colors"
-import dimensions from "styles/dimensions"
-import Button from "components/_ui/Button"
 import Layout from "components/Layout"
+import { graphql } from "gatsby"
+import PropTypes from "prop-types"
+import React, { useState } from "react"
+import Helmet from "react-helmet"
 import Job from "../components/Job"
 
 const RenderBody = ({ home, projects, meta }) => {
