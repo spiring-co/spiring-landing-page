@@ -57,7 +57,7 @@ const Footer = () => (
     <Link to="/">
       <Logo />
     </Link>
-    <FooterAuthor href="">© 2019 AWE SPIRING DESIGNS PVT. LTD.</FooterAuthor>
+    <FooterAuthor href="">© 2022 AWE SPIRING DESIGNS PVT. LTD.</FooterAuthor>
   </FooterContainer>
 )
 

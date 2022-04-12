@@ -82,9 +82,9 @@ const Header = () => (
         {/* <Link activeClassName="Link--is-active" to="/work">
           work
         </Link> */}
-        <Link activeClassName="Link--is-active" to="/jobs">
+        {/* <Link activeClassName="Link--is-active" to="/jobs">
           jobs
-        </Link>
+        </Link> */}
       </HeaderLinks>
     </HeaderContent>
   </HeaderContainer>

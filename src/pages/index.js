@@ -151,8 +151,7 @@ const RenderBody = ({ home, projects, meta }) => {
           to build products using a diverse set of technologies as required.
           People that relate with our vision and are familiar with javascript
           can connect with us at{" "}
-          <a href="mailto: careers@spiring.co">careers@spiring.co</a> or visit
-          the <a href="/jobs">jobs</a> page.
+          <a href="mailto: careers@spiring.co">careers@spiring.co</a>.
         </p>
         <p
           style={{ fontWeight: "bold", color: colors.purple500 }}
